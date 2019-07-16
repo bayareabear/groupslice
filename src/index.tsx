@@ -23,7 +23,7 @@ import Master from 'containers/master'
 import './styles/app.css'
 
 /**
- * Execute startup functions
+ * Execute startup functionsz
  */
 import './socialEngine'
 import rootSaga from 'store/sagas/rootSaga'

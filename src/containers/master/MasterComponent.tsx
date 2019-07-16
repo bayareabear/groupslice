@@ -125,7 +125,7 @@ export class MasterComponent extends Component<IMasterComponentProps, IMasterCom
       <div id='master'>
       <Helmet>
                 <meta charSet='utf-8' />
-                <title>Professional's Group Slice</title>
+                <title>All Investors Must Come</title>
                 <link rel='canonical' href='https://github.com/Qolzam/react-social-network' />
             </Helmet>
        {sendFeedbackStatus ? <SendFeedback /> : ''}
